@@ -1,0 +1,15 @@
+{
+  "title": "Twitter Icon Notifier",
+  "name": "twitter-icon-notifier-firefox",
+  "version": "0.0.1",
+  "description": "Changes the icon for Twitter when new tweets arrive. Useful when using Twitter as a pinned tab.",
+  "main": "index.js",
+  "author": "Adam Harvey",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
